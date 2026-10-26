@@ -1,0 +1,4 @@
+__pycache__/
+device_ledger.json
+*.pyc
+.env
